@@ -1,5 +1,5 @@
 ﻿using System;
-
+//written by Lam Phan
 namespace MorseCode
 {
     class MainClass
